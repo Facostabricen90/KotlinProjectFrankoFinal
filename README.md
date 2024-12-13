@@ -7,6 +7,7 @@ Este manual tiene como objetivo explicarte cómo utilizar la aplicación para ge
 ---
 
 ## **Vista Principal: Dashboard**
+![GastosUno](https://github.com/user-attachments/assets/b87be21e-bc3e-4924-ac9c-7b79e8f18f27)
 
 ### Descripción:
 El **Dashboard** es la vista inicial de la aplicación. Desde aquí puedes consultar tu saldo total y la lista de todos los gastos registrados, categorizados por tipo. 🏠✨✨✨
@@ -28,6 +29,7 @@ El **Dashboard** es la vista inicial de la aplicación. Desde aquí puedes consu
 ---
 
 ## **Vista para Añadir Gasto**
+![GastosDos](https://github.com/user-attachments/assets/4b3d95ce-2309-4824-9c19-8e0b5c2b0f89)
 
 ### Descripción:
 Esta vista te permite registrar un nuevo gasto, especificando la cantidad, la categoría y una descripción opcional. 📝✨✨✨
@@ -57,6 +59,7 @@ Esta vista te permite registrar un nuevo gasto, especificando la cantidad, la ca
 ---
 
 ## **Vista para Editar Gasto**
+![GastosTres](https://github.com/user-attachments/assets/87e9abb7-4950-447d-93ec-823b985d0b78)
 
 ### Descripción:
 Esta vista te permite modificar los detalles de un gasto previamente registrado. 🛠️✨✨✨
