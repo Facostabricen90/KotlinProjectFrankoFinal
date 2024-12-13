@@ -2,6 +2,8 @@
 
 Este manual tiene como objetivo explicarte cómo utilizar la aplicación para gestionar tus gastos, detallando las funciones de cada una de las vistas principales: el **Dashboard**, la sección para **Añadir Gasto** y la de **Editar Gasto**. ✅✨✨✨
 
+*Nota importante: si se desea ejecutar el proyecto correctamente al clonarlo, eliminar la palabra FrankoFinal a la carpeta*
+
 ---
 
 ## **Vista Principal: Dashboard**
